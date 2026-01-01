@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.home-page {
+    background-image: url(./assets/home/background-home-desktop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.destination-page {
+    background-image: url(./assets/destination/background-destination-desktop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.crew-page {
+    background-image: url(./assets/crew/background-crew-desktop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.technology-page {
+    background-image: url(./assets/technology/background-technology-desktop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
